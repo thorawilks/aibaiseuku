@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://waexourael.standardrepertoire.com/sitemap.xml
